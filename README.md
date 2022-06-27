@@ -3,5 +3,5 @@
 ## Todo
 
 - [x] package install
-- [ ] router setup
+- [x] router setup
 - [ ] Create Components
