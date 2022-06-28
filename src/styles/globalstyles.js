@@ -1,6 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
-export const globalstyle = createGlobalStyle`
+export const Globalstyle = createGlobalStyle`
     *{
         margin: 0;
         padding: 0;
@@ -14,6 +14,6 @@ export const globalstyle = createGlobalStyle`
 
     a{
         text-decoration: none;
-        color: #1d1d1d;
+        color: white;
     }
 `;

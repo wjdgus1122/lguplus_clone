@@ -5,10 +5,12 @@ import { NotFound } from "./components/NotFound";
 import { Home } from "./components/pages/homes/Home";
 import { Price } from "./components/pages/Sub/Price";
 import { Product } from "./components/pages/Sub/Product";
+import { Globalstyle } from "./styles/globalstyles";
 
 function App() {
   return (
     <Router>
+      <Globalstyle />
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
