@@ -10,9 +10,11 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const SHeader = styled.div`
+  width: 100%;
   background-color: black;
   color: white;
   position: fixed;
+  z-index: 99;
 `;
 const TopHeader = styled.div`
   height: 57px;
