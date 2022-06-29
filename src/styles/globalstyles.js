@@ -10,6 +10,7 @@ export const Globalstyle = createGlobalStyle`
     body{
         word-break: keep-all;
         font-family: 'Noto Sans KR', sans-serif;
+        letter-spacing: -.8;
     }
 
     a{
