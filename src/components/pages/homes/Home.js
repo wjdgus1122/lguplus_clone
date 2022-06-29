@@ -143,7 +143,7 @@ export const Home = () => {
             <TexrWrap>
               <ConTitle>유튜브 프리미엄 팩</ConTitle>
               <ConText>
-                끊김없는 즐거움과 감동을 언제 어디서든 느껴보세요{" "}
+                끊김없는 즐거움과 감동을 언제 어디서든 느껴보세요
               </ConText>
             </TexrWrap>
           </Con_3>
