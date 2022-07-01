@@ -116,7 +116,7 @@ export const Section_1 = () => {
   const [wid3, setWid3] = useState("865px");
   const [display1, setDisplay1] = useState("none");
   const [display2, setDisplay2] = useState("none");
-  const [display3, setDisplay3] = useState("none");
+  const [display3, setDisplay3] = useState("flex");
   const handleCon_1 = () => {
     if (wid1 == "272px") {
       setWid1("865px");
